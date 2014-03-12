@@ -1,4 +1,7 @@
 angular-bootstrap
 =================
 
-Anuglar JS Seed Project with Bootstrap
+Angular JS seed Project variation with Bootstrap, LESS, jQuery.
+
+- Bootstrap v3.1.1
+- 
