@@ -1,7 +1,7 @@
 angular-bootstrap
 =================
 
-Angular JS seed Project variation with Bootstrap preinstalled.
+AngularJS [seed project](https://github.com/angular/angular-seed) variation with Bootstrap preinstalled.
 
 - [AngularJS](http://angularjs.org)
 - [Bootstrap](http://getbootstrap.com)
